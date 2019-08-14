@@ -1,0 +1,43 @@
+<resources>
+    <string name="namaapp">AKB</string>
+    <string name="title_activity_main">Aryata</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="deskripsi_diri">Saya adalah mahasiswa hampir akhir yaitu semester 6 yang sedang berjuang di Universitas Komputer Indonesia Bandung. Yang Berasal dari Pontianak KAL-BAR. Merantau
+    ke Bandung demi mencari JATI DIRI YANG SEBENARNYA serta fashion yang sebenarnya</string>
+    <string name="makes">Sop ayam adalah makanan kesukaanku</string>
+    <string name="mikes">Ntah kenapa saya lebih menyukai susu daripada yang lain. Saya suka kopi tapi hanya nebeng dari gelas teman, namun kopi yang sedap dimulut
+        yaitu kopi khas KAL-BAR</string>
+    <string name="hobby">Aku suka sekali menonton dan biasanya menghabiskan waktu dengan menonton film</string>
+    <string name="interest">Internet merupakan wadah bagi manusia untuk menemukan informasi. Diinternet apa saja ada, itu yang membuat saya tertarik. Terlebih
+     saya tertarik dalam mengkonfigurasi di bidang JARINGAN.</string>
+    <string name="citacita">Cita-cita dan harapan saya terbilang simple namun sulit dilakukan. Menjadi pengusaha kaya raya hehe</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">SELAMAT DATANG</string>
+
+    <string name="slide_2_title">Ada apa nih?</string>
+    <string name="slide_2_desc">Geser kanan ya</string>
+
+    <string name="slide_3_title">MYSELFAPPS</string>
+    <string name="slide_3_desc">Yuk intip lebih lanjut mengenai keseharianku sehari-hari dengan mengklik tombol LANJUT</string>
+
+    <string name="slide_4_title">FOLLOW ME ON INSTAGRAM</string>
+    <string name="slide_4_desc">Follow instagram Antonius Erwin @erwinaryata</string>
+
+    <!--LOGIN DAN REGISTER-->
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account?</string>
+</resources>
